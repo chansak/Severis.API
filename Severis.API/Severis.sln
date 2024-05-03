@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Severis.API", "Severis.API.csproj", "{CA62240A-5957-4DF1-A0F1-A14010922476}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Severis.Business", "..\Severis.Business\Severis.Business.csproj", "{CEB2747D-EA28-4410-80D6-3DCEF3A68A60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Severis.DataAccess", "..\Severis.DataAccess\Severis.DataAccess.csproj", "{15706FE2-AC9F-437B-930F-FD084C6F2CDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Severis.Model", "..\Severis.Model\Severis.Model.csproj", "{09978C2F-7F54-4EE5-9CDA-68082F289FDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Severis.Shared", "..\Severis.Shared\Severis.Shared.csproj", "{80D782AA-9AAB-4C18-B838-C70EFA3D91C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A5836C2-40F3-4EEE-8EA0-3E3BD56AE36E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA62240A-5957-4DF1-A0F1-A14010922476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA62240A-5957-4DF1-A0F1-A14010922476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA62240A-5957-4DF1-A0F1-A14010922476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA62240A-5957-4DF1-A0F1-A14010922476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB2747D-EA28-4410-80D6-3DCEF3A68A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB2747D-EA28-4410-80D6-3DCEF3A68A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB2747D-EA28-4410-80D6-3DCEF3A68A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB2747D-EA28-4410-80D6-3DCEF3A68A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15706FE2-AC9F-437B-930F-FD084C6F2CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15706FE2-AC9F-437B-930F-FD084C6F2CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15706FE2-AC9F-437B-930F-FD084C6F2CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15706FE2-AC9F-437B-930F-FD084C6F2CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09978C2F-7F54-4EE5-9CDA-68082F289FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09978C2F-7F54-4EE5-9CDA-68082F289FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09978C2F-7F54-4EE5-9CDA-68082F289FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09978C2F-7F54-4EE5-9CDA-68082F289FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D782AA-9AAB-4C18-B838-C70EFA3D91C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D782AA-9AAB-4C18-B838-C70EFA3D91C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D782AA-9AAB-4C18-B838-C70EFA3D91C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D782AA-9AAB-4C18-B838-C70EFA3D91C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31168010-F35E-45B0-8D68-3144BD9AB912}
+	EndGlobalSection
+EndGlobal
